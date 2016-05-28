@@ -96,7 +96,7 @@ public class ContactFragment extends Fragment {
             e.printStackTrace();
         }
     }
-
+/////
 
     private void hideKeyboard(){
         view.clearFocus();
