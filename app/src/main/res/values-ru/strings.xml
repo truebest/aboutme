@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="home_page">Главная</string>
+    <string name="skils_page">Навыки</string>
+    <string name="about_page">Обо мне</string>
+    <string name="portfolio_page">Портфолио</string>
+    <string name="map_page">Мое местонахождение</string>
+    <string name="my_full_name">Шилин Павел</string>
+    <string name="contact_page">Напишите мне</string>
+    <string name="my_age">26</string>
+    <string name="my_birth_date">27.12.1989</string>
+    <string name="my_phone">+79213807932</string>
+    <string name="my_email">pavel@truebest.ru</string>
+    <string name="story_about_me">Здравствуйте, меня зовут Павел, я живу, учусь и работаю в Санкт-Петербурге, являюсь аспирантом третьего года обучения в Санкт-Петербургском государственном университете телекоммуникаций им. проф. М.А.Бонч-Бруевича кафедры Сетей Связи. По характеру я являюсь пунктуальным, организованным, амбициозным и жизнерадостным молодым человеком, всегда открытым для новых идей и людей. Из-за активной жизненной позиции многократно являлся участником различных российских и международных конференций в сфере информационных и телекоммуникационных технологий. Также имеются публикации моих научных работ в различных российских и международных журналах. Являюсь стипендиатом программы «УМНИК». Участвовал в нескольких областных олимпиадах по программированию, входил в первую десятку победителей. С последних классов школы и по настоящий день я занимаюсь разработкой устройств на микроконтроллерах. Большинство мною разрабатываемых устройств являются устройствами сбора, хранения, обработки, передачи информации и применяются в сфере мониторинга и охраны объектов, управлении, радиосвязи. Я занимаюсь в разработкой схемотехнических решений устройства, проектированием печатных плат и непосредственно написанием программного обеспечения.</string>
+    <string name="my_txt">Портретная ориентация</string>
+    <string name="hint_name">Ваше имя</string>
+    <string name="hint_emal">Ваш email</string>
+    <string name="hint_phone">Ваш номер телефона</string>
+    <string name="hint_message">Ваше Сообщение</string>
+    <string name="hint_age">Ваша дата рождения</string>
+    <string name="button_send">Отправить</string>
+    <string name="send_ok">Успешно оправлено</string>
+    <string name="send_fail">Ошибка отправки</string>
+    <string name="warn_fill_fields">Пожалуйста заполните все поля</string>
+    <string name="commit_send">Подтверждение отправки</string>
+    <string name="are_you_ready">Вы действительно готовы отправить введенные данные?</string>
+    <string name="dlg_btn_ok">Да</string>
+    <string name="dlg_btn_cancel">Нет</string>
+    <string name="snack_retry">Повторить</string>
+    <string name="menu_communicate">Communicate</string>
+
+
+</resources>

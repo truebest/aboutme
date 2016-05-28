@@ -1,0 +1,332 @@
+[
+    {
+        "outputFile": "/Users/beerko/AndroidStudioProjects/AboutMe/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 71,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 45,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 44,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 44,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 43,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 43,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 44,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 44,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 46,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 50,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 44,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 44,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 48,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 425,
+                        "endColumn": 48,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 45,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 379,
+                        "endColumn": 45,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 69,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 69,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 63,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 63,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 70,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 70,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 67,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 67,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 56,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/src/main/res/values-land/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 56,
+                        "endOffset": 68
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "/Users/beerko/AndroidStudioProjects/AboutMe/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

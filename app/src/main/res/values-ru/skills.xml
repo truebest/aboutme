@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_skills_langs_descriptions">
+        <item>С Android я только недаво начал знакомство</item>
+        <item>С ASM мы давно дружим, но все реже встречаемся</item>
+        <item>С Си мы неразлей вода</item>
+        <item>С Си++ мы последнее время часто встречаемся</item>
+        <item>С появлением Windows 10 for embedded мы стали дружить</item>
+        <item>С objective мы скоро подружимся</item>
+        <item>С Delphi мы когда то были неразлей вода</item>
+        <item>С Go мы очень быстро нашли общий язык</item>
+        <item>С Java мы возможно станем лучшими друзьями</item>
+        <item>С Swift мы даже не знакомились</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <color name="colorAccent">#ff3d00</color>
+    <color name="colorBlack">#212121</color>
+    <color name="colorGray">#9E9E9E</color>
+    <color name="colorGreen">#FFD600</color>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#d84315</color>
+    <color name="colorWhite">#FAFAFA</color>
+    <color name="txt_background">#EEEEEE</color>
+    <color name="txt_color">#FF11FF11</color>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <string name="my_txt">Landscape orientation</string>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+</resources>

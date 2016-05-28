@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="c_lang">C</string>
+    <string name="c_plus_lang">C++</string>
+    <string name="c_obj_lang">Objective C</string>
+    <string name="c_net">C#</string>
+    <string name="go_lang">Go lang</string>
+    <string name="java_lang">Java</string>
+    <string name="android_lang">Andriod</string>
+    <string name="asm_lang">Assembler</string>
+    <string name="delphi_lang">Delphi</string>
+    <string name="swift_lang">Swift</string>
+
+    <string name="x86">x86</string>
+    <string name="risc">RISC</string>
+    <string name="cisc">CISC</string>
+    <string name="arm">ARM</string>
+    <string name="mips">MIPS</string>
+
+    <string name="svn">SVN</string>
+    <string name="git">Git</string>
+    <string name="linux">Linux</string>
+    <string name="ide_xCode">Xcode</string>
+    <string name="ide_android">Android Studio</string>
+    <string name="ide_clion">CLion</string>
+    <string name="ide_idea">IntelliJ IDEA</string>
+    <string name="ide_mvs">MS Visual Studio</string>
+
+    <string-array name="my_skills_langs_names">
+        <item>@string/android_lang</item>
+        <item>@string/asm_lang</item>
+        <item>@string/c_lang</item>
+        <item>@string/c_plus_lang</item>
+        <item>@string/c_net</item>
+        <item>@string/c_obj_lang</item>
+        <item>@string/delphi_lang</item>
+        <item>@string/go_lang</item>
+        <item>@string/java_lang</item>
+        <item>@string/swift_lang</item>
+    </string-array>
+
+    <string-array name="my_skills_langs_descriptions">
+                
+        <item>With Android I just started dating recently</item>
+                
+        <item>With ASM, we have long been friends, but rarely meet</item>
+                
+        <item>From C we indecomposable water</item>
+                
+        <item>With C ++, we recently often meet</item>
+                
+        <item>With the advent of Windows 10 for embedded we became friends</item>
+                
+        <item>With the objective we will soon be friends</item>
+                
+        <item>From Delphi we were indecomposable when the water</item>
+                
+        <item>With Go we very quickly found a common language</item>
+                
+        <item>With Java, we might become the best of friends</item>
+                
+        <item>With Swift we have not even got to know</item>
+            
+    </string-array>
+
+
+    <string-array name="my_skills_langs_stars">
+        <item>2</item>
+        <item>2</item>
+        <item>5</item>
+        <item>5</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+
+    <string-array name="my_skills_arh_names">
+        <item>@string/x86</item>
+        <item>@string/risc</item>
+        <item>@string/cisc</item>
+        <item>@string/arm</item>
+        <item>@string/mips</item>
+    </string-array>
+
+    <string-array name="my_skills_arh_stars">
+        <item>3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+    </string-array>
+
+
+    <string-array name="my_skills_others_names">
+        <item>@string/linux</item>
+        <item>@string/svn</item>
+        <item>@string/git</item>
+        <item>@string/ide_xCode</item>
+        <item>@string/ide_android</item>
+        <item>@string/ide_clion</item>
+        <item>@string/ide_idea</item>
+        <item>@string/ide_mvs</item>
+    </string-array>
+
+    <string-array name="my_skills_others_stars">
+        <item>5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
